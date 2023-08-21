@@ -1,4 +1,4 @@
-<h1>Hi, This is Aldu!</h1>
+<h1>Hi, This is Aldo!</h1>
 
 <h2>👨‍💻 Some of my IT projects:</h2>
 
