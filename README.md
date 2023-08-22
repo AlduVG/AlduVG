@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Some of my IT projects:</h2>
 
-- Setting up a LAMP Stack using Virtual Box.
-- Augmented Reality application.
+- [Setting up a LAMP Stack using Virtual Box.](https://github.com/AlduVG/LAMP)
+- [Augmented Reality application.](https://github.com/AlduVG/AR-APP)
 
 <h2>:newspaper: My certifications:</h2>
 
