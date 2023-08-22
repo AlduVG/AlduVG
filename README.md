@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Some of my IT projects:</h2>
 
+- Setting up a LAMP Stack using Virtual Box.
+- Augmented Reality application.
+
 <h2>:newspaper: My certifications:</h2>
 
 - [CCNA | 200-201 CBROPS](https://www.credly.com/badges/98467f53-d3d7-4687-a049-9dc5e68fec8e/public_url)
