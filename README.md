@@ -1,9 +1,10 @@
 <h1>Hi, This is Aldo!</h1>
 
-<h2>👨‍💻 Some of my IT projects:</h2>
+<h2> :computer: Some of my IT projects:</h2>
 
 - [Setting up a LAMP Stack using Virtual Box.](https://github.com/AlduVG/LAMP)
 - [Augmented Reality application.](https://github.com/AlduVG/AR-APP)
+- [Windows Active Directory Lab.](https://github.com/AlduVG/Active-Directory-Lab)
 
 <h2>:newspaper: My certifications:</h2>
 
