@@ -2,10 +2,10 @@
 
 <h2> :computer: Some of my IT projects:</h2>
 
-- [Setting up a LAMP Stack using Virtual Box.](https://github.com/AlduVG/LAMP)
-- [Augmented Reality application.](https://github.com/AlduVG/AR-APP)
 - [Windows Active Directory Lab.](https://github.com/AlduVG/Active-Directory-Lab)
 - [Vulnerability Assessment using Nessus Essentials.](https://github.com/AlduVG/NessusVA)
+- [Setting up a LAMP Stack using Virtual Box.](https://github.com/AlduVG/LAMP)
+- [Augmented Reality application.](https://github.com/AlduVG/AR-APP)
   
 <h2>:newspaper: My certifications:</h2>
 
