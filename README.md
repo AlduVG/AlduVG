@@ -2,7 +2,7 @@
 
 <h2> :computer: Some of my IT projects:</h2>
 
-- [Cloud-based SOC deployment in Azure.](azure-cloud-soc-deployment)
+- [Cloud-based SOC deployment in Azure.](https://github.com/AlduVG/azure-cloud-soc-deployment)
 - [Microsoft Sentinel Incident Response.](https://github.com/AlduVG/Azure-IR)
 - [Windows Active Directory Lab.](https://github.com/AlduVG/Active-Directory-Lab)
 - [Vulnerability Assessment using Nessus Essentials.](https://github.com/AlduVG/NessusVA)
